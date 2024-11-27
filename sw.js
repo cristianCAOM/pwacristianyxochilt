@@ -9,7 +9,7 @@ const APP_SHELL = [
     './app.js',
     './manifest.json',
     './img/fifa26.jpg',
-    './img/icon.png' // Asegúrate de que esta ruta sea correcta
+    './img/icon.png'
 ];
 
 const IMMUTABLE_FILES = [
