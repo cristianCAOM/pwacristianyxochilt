@@ -3,13 +3,13 @@ const DYNAMIC_CACHE = 'dynamic-v1';
 const IMMUTABLE_CACHE = 'immutable-v1';
 
 const APP_SHELL = [
-    '/',
-    '/index.html',
-    '/styles.css',
-    '/app.js',
-    '/manifest.json',
-    '/img/fifa26.jpg',
-    '/images/icon.png' // Asegúrate de que esta ruta sea correcta
+    './',
+    './index.html',
+    './styles.css',
+    './app.js',
+    './manifest.json',
+    './img/fifa26.jpg',
+    './img/icon.png' // Asegúrate de que esta ruta sea correcta
 ];
 
 const IMMUTABLE_FILES = [
