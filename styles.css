@@ -1,4 +1,4 @@
-/* body {
+body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin-top: 50px;
@@ -40,13 +40,13 @@ h1 {
 
 .button:hover {
     background-color: #0056b3;
-} */
+}
 
 
 
 
 
-.wrapper {
+/* .wrapper {
     position:relative;
     width: 750px;
     height: 450px;
@@ -70,7 +70,7 @@ h1 {
     padding: 0 60px 0 40px;
 }
 
-
+ */
 
 
 
