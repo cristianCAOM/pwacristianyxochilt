@@ -3,13 +3,13 @@ const DYNAMIC_CACHE = 'dynamic-v1';
 const IMMUTABLE_CACHE = 'immutable-v1';
 
 const APP_SHELL = [
-    'mi-repo/',
-    'mi-repo/index.html',
-    'mi-repo/styles.css',
-    'mi-repo/app.js',
-    'mi-repo/manifest.json',
-    'mi-repo/img/fifa26.jpg',
-    'mi-repo/img/icon.png'
+    './',
+    './index.html',
+    './styles.css',
+    './app.js',
+    './manifest.json',
+    './img/fifa26.jpg',
+    './img/icon.png'
 ];
 
 const IMMUTABLE_FILES = [
