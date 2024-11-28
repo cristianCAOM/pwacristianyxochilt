@@ -1,13 +1,13 @@
 {
     "name": "PWA Básica",
     "short_name": "PWAcYx",
-    "start_url": "./",
+    "start_url": "mi-repo/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
     "icons": [
         {
-            "src": "img/icon.png",
+            "src": "mi-repo/img/icon.png",
             "sizes": "192x192",
             "type": "image/png"
         }
