@@ -1,4 +1,4 @@
-/* body {
+body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin-top: 50px;
@@ -40,35 +40,12 @@ h1 {
 
 .button:hover {
     background-color: #0056b3;
-} */
-
-
-
-
-
-.wrapper {
-    position:relative;
-    width: 750px;
-    height: 450px;
-    background: var(--white);
-    border: 2px solid var(--black);
-    border-radius: 10px;
-    box-shadow: 0 0 20px var(--black);
-    overflow: hidden;
 }
-.wrapper .form-box{
-    position: absolute;
-    top: 0;
-    width: 50%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-   flex-direction: column;;
-}
-.wrapper .form-box.login{
-    left: 0;
-    padding: 0 60px 0 40px;
-}
+
+
+
+
+
 
 
 
